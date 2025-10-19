@@ -1,0 +1,8 @@
+# This is a .gitignore file for a Python project
+
+.env
+.env.local
+
+# Ignore Python environment directories
+venv/
+.venv/
